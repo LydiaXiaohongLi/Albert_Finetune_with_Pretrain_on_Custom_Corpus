@@ -50,7 +50,6 @@ Repo: https://github.com/google-research/ALBERT
     1. Prepare albert_config_file (models_toy/albert_config.json) : note vocab_size in albert_config_file should be same as the total vocab in Build Vocab step. Refer to https://tfhub.dev/google/albert_base/2 for a ablert_base_v2 config file
     2. Run the command in the repo directly, python run_pretraining.py --input_file={albert_pretrain_file} --output_dir={models_dir} --albert_config_file={albert_config_file}
 
-    Refer models_toy/ for pretrained model checkpoints created by above step using the sample dataset
 
 ### 3. Finetune Albert with downstream tasks
 #### Overview
