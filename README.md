@@ -53,6 +53,15 @@ Repo: https://github.com/google-research/ALBERT
 
 ### 3. Finetune Albert with downstream tasks
 #### Overview
+##### tensorflow version
 Repo: https://github.com/google-research/ALBERT
+Reference to run_classifier.py in ALBERT repo. Details refer to the notebook albert_finetuning_toy.ipynb in this repo.
+##### pytorch version
+Repo: https://github.com/huggingface/transformers
+Details refer to the notebook albert_finetuning_toy_pytorch_multiGPU.ipynb in this repo.
 
-Reference to run_classifier.py in ALBERT repo. Details refer to the notebook in this repo.
+
+### Citation:
+Great thanks to Google team, for open source Albert
+Great thanks to Huggingface team, for open source transformers
+Great thanks to M. H. Kwon, for open source Bert-Vocab-Builder
