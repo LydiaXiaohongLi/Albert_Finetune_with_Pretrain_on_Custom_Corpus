@@ -66,5 +66,9 @@ Details refer to the notebook albert_finetuning_toy_pytorch_multiGPU.ipynb in th
 
 ### Citation:
 Great thanks to Google team, for open source Albert
+
 Great thanks to Huggingface team, for open source transformers
+
 Great thanks to M. H. Kwon, for open source Bert-Vocab-Builder
+
+Great thanks to Cybertron AI, for open source Lamb Optimizer https://github.com/cybertronai/pytorch-lamb
