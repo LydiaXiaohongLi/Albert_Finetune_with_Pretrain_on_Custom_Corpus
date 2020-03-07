@@ -1,4 +1,7 @@
 ## Introduction
+
+###### Note: I have created a colab notebook in this repo, Albert_Finetune_with_Pretrain_on_Custom_Corpus_ToyModel.ipynb, which runs end to end for all steps with a toy model defined below, and requires only CPU for demonstration purpose. 
+
 This notebook (albert_toy) illustrates how to 
 1. pretrain Albert with custom corpus
 2. further fine tune the pretrained Albert 
